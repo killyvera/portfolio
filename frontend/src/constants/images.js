@@ -35,6 +35,11 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import html5 from '../assets/html5.png';
+import JS from '../assets/JS.png';
+import css3 from '../assets/css3.png';
+import sanity from '../assets/sanity.png';
+
 // eslint-disable-next-line
 export default {
   email,
@@ -70,4 +75,8 @@ export default {
   nb,
   skype,
   spotify,
+  html5,
+  JS,
+  css3,
+  sanity
 };
